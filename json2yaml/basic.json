@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Juice WRLD",
+        "genre": "Hip-Hop/Rap",
+        "best_song":"Lucid Dreams",
+        "age": 21,
+        "alive": false
+    },
+    {
+        "name":"The Kid LAROI",
+        "genre": "Hip-Hop/Rap",
+        "best_song":"Diva(feat. Lil Tecca",
+        "age": 17,
+        "alive": true
+    }
+    
+]

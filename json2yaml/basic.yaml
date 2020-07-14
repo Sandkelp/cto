@@ -1,0 +1,24 @@
+artist:
+- name: Juice WRLD
+  genre: Hip-Hop/Rap
+  best_song: Lucid Dreams
+  age: 21
+  alive: false
+- name: The Kid LAROI
+  genre: Hip-Hop/Rap
+  best_song: Diva(feat. Lil Tecca
+  age: 17
+  alive: true
+
+"[\n    {\n        \"name\":\"Juice WRLD\",\n        \"genre\": \"Hip-Hop/Rap\"\
+  ,\n        \"best_song\":\"Lucid Dreams\",\n        \"age\": 21,\n       \
+  \ \"alive\": false\n    },\n    {\n        \"name\":\"The Kid LAROI\",\n\
+  \        \"genre\": \"Hip-Hop/Rap\",\n        \"best_song\":\"Diva(feat. Lil Tecca\"\
+  ,\n        \"age\": 17,\n        \"alive\": true\n    }\n    \n]\n"
+
+
+"[\r\n    {\r\n        \"name\":\"Juice WRLD\",\r\n        \"genre\": \"Hip-Hop/Rap\"\
+  ,\r\n        \"best_song\":\"Lucid Dreams\",\r\n        \"age\": 21,\r\n       \
+  \ \"alive\": false\r\n    },\r\n    {\r\n        \"name\":\"The Kid LAROI\",\r\n\
+  \        \"genre\": \"Hip-Hop/Rap\",\r\n        \"best_song\":\"Diva(feat. Lil Tecca\"\
+  ,\r\n        \"age\": 17,\r\n        \"alive\": true\r\n    }\r\n    \r\n]\r\n"
